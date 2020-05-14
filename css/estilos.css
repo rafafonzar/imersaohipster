@@ -1,0 +1,36 @@
+body {  
+    background-size: auto 100vh;
+    background-image:
+    url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?size=626&ext=jpg);
+    font-family: sans-serif;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: #F9f9f9; 
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-between; 
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+    }
+  a:hover {
+    text-decoration: underline;  
+  }
+  
+  
+  .site-subtitle,
+  .site-title {
+    color: #0f4c81;
+    text-align: center;
+    }
+  
